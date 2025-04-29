@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=com.demo.ai
+Exec=/usr/bin/com.demo.ai
+Name=JuliaAI
+Name[ru]=AIЮля
+
+[X-Application]
+Permissions=Audio;Camera;Documents;Downloads;Internet;Location;MediaIndexing;Microphone;Music;NFC;Pictures;PublicDir;PushNotifications;RemovableMedia;ScreenCapture;Videos;WebView
+OrganizationName=com.demo
+ApplicationName=ai
+
